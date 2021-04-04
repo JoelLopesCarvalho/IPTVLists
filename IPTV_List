@@ -5,9 +5,6 @@
 #EXTINF:-1 tvg-logo="https://scontent.fcgh5-1.fna.fbcdn.net/v/t1.0-9/28279785_2010350025887115_4005489018652937507_n.jpg?_nc_cat=101&_nc_eui2=AeHIRWcIwK-a-nkvXKe39zlSc47De4K6qdFIvYNc4XoLe6cy2AhhM_Z7td1ICJF6fJHIlH6sN4QsJxDxoWiyA0ix5ZWYcd7PgiIpfoH6XaKJ_Q&oh=7100d15c145b91f73e71879b803532a5&oe=5C4D6E88" group-title="CBTV INTERNACIONAL",[B] [COLOR blue]KeltecMP[/COLOR][COLOR red]IPTV:[/COLOR] [COLOR white] CBTV INTERNACIONAL| HD[/COLOR][/B]
 https://sa-all7.secdn.net/cbtv-channel/play/mp4:stream/chunklist_w1158593168.m3u8
 
-#EXTINF:-1 tvg-logo="https://painel.kshost.com.br/sites/canalricos.com.br/images/logo/user_1064536032.jpg" group-title="CANAL RICOS",[B] [COLOR blue]KeltecMP[/COLOR][COLOR red]IPTV:[/COLOR] [COLOR white] CANAL RICOS | SD[/COLOR][/B]
-http://painel.tvdigitalhd.org:1935/canalricos548/canalricos548/playlist.m3u8
-
 ##############################################################################################################
 
 NOVAS SÉRIES
@@ -22,29 +19,8 @@ CANAIS ABERTOS
 
 ##############################################################################################################
 
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/sbt.png" group-title="CANAL ABERTO",SBT Interior SP
-http://srv6.zoeweb.tv:1935/z343-live/stream/playlist.m3u8?KeltecMPIPTV
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/sbt.png" group-title="CANAL ABERTO", SBT - TV Jornal (PE)
-http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8?KeltecMPIPTV
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/sbt.png" group-title="CANAL ABERTO", SBT - TV Jornal Caruaru (PE)
-http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8?KeltecMPIPTV
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/sbt.png" group-title="CANAL ABERTO", SBT - TV Serra Dourada - (GO)
-http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/chunklist_w1049268288_b796000.m3u8?KeltecMPIPTV
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/sbt.png" group-title="CANAL ABERTO", SBT - TV Cidade Verde - (PI)
-http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8?KeltecMPIPTV
-
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/sbt.png" group-title="CANAL ABERTO",SBT - TV Difusora (MA)
 http://difusorama.zoeweb.tv:1935/z437-live/stream/playlist.m3u8?KeltecMPIPTV
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/sbt.png" group-title="CANAL ABERTO", SBT SC
-http://srv6.zoeweb.tv:1935/z343-live/stream/livestream.m3u8?KeltecMPIPTV
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/recordtv.png" group-title="CANAL ABERTO",RecordTV- TV Sucesso (GO)
-http://srv3.zoeweb.tv:1935/zw315/zw315tvs/playlist.m3u8?KeltecMPIPTV
 
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/recordtv.png" group-title="CANAL ABERTO",RecordTV- TV Tropical (RN)
 http://184.172.23.109:1935/live/tvtrop_natal/tvtrop_natal_aovivo/playlist.m3u8?KeltecMPIPTV
@@ -503,26 +479,11 @@ https://d1h84if288zv9w.cloudfront.net/7dias/0be3_135.stream/playlist.m3u8?Keltec
 #EXTINF:-1 tvg-id="" tvg-logo="https://i62.servimg.com/u/f62/19/82/45/70/images10.jpg" group-title="CÂMERAS",Ubatuba - Praia Enseaba 
 https://d1h84if288zv9w.cloudfront.net/7dias/0be3_204.stream/playlist.m3u8?KeltecMPIPTV
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i62.servimg.com/u/f62/19/82/45/70/images10.jpg" group-title="CÂMERAS",Arena Allianz Parque - Palestra ItÃ¡lia
-https://d1h84if288zv9w.cloudfront.net/7dias/0be3_1093.stream/playlist.m3u8?KeltecMPIPTV
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i62.servimg.com/u/f62/19/82/45/70/images10.jpg" group-title="CÂMERAS",Av. Interlagos - Shopping Interlagos
 https://d1h84if288zv9w.cloudfront.net/7dias/0be3_801.stream/playlist.m3u8?KeltecMPIPTV
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i62.servimg.com/u/f62/19/82/45/70/images10.jpg" group-title="CÂMERAS",Marginal Pinheiros Transito
-https://d1h84if288zv9w.cloudfront.net/7dias/0be3_69.stream/playlist.m3u8?KeltecMPIPTV
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i62.servimg.com/u/f62/19/82/45/70/images10.jpg" group-title="CÂMERAS",Pico do gavião - Andradas MG
-http://streaming55.sitehosting.com.br:1935/picodogaviao/camera.stream/playlist.m3u8?KeltecMPIPTV
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i62.servimg.com/u/f62/19/82/45/70/images10.jpg" group-title="CÂMERAS",EstUdio 102 FM Itajaí­ - SC
-http://streaming2.aquisolucoes.com.br:1935/radio102video/aovivo/playlist.m3u8?KeltecMPIPTV
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i62.servimg.com/u/f62/19/82/45/70/images10.jpg" group-title="CÂMERAS",EstUdio 90.5 FM São Paulo - SP
 http://media.sgr.globo.com:1935/VideoCBN/cbnsp1.sdp/playlist.m3u8?KeltecMPIPTV
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i62.servimg.com/u/f62/19/82/45/70/images10.jpg" group-title="CÂMERAS",EstUdio 91.7 FM Cascavel - PR
-http://stream.catve.com.br:1935/radiocamera/livestream/playlist.m3u8?KeltecMPIPTV
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i62.servimg.com/u/f62/19/82/45/70/images10.jpg" group-title="CÂMERAS",EstUdio 96.5 FM Rio de Janeiro - RJ
 http://cdn.rj.assocrj.com.br/live//tupi-estudio-video06/playlist.m3u8?KeltecMPIPTV
