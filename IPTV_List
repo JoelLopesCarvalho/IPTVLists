@@ -14,12 +14,6 @@ http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index
 #EXTINF:-1 tvg-logo="https://i0.wp.com/willmckinley.files.wordpress.com/2014/05/logo.png?w=640" group-title="CANAL ABERTO", Retrô
 http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w119998573.m3u8?KeltecMPIPTV
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/hHaH74V.png" group-title="CANAL ABERTO", Amazon Sat
-http://liveabr2.sambatech.com.br/abr/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream.m3u8?KeltecMPIPTV
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/Yj9UKv2.png" group-title="CANAL ABERTO", TV Escola
-http://liveabr2.sambatech.com.br:80/abr/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestreamabr.m3u8?KeltecMPIPTV
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/71/Logotipo_da_R%C3%A1dio_Evangelizar.png" group-title="CANAL ABERTO", TV Evangelizar
 http://tvevangelizar01.crossdigital.com.br/evangelizar/tv/playlist.m3u8?KeltecMPIPTV
 
